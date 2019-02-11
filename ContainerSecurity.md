@@ -19,6 +19,12 @@ Best Practices
 
     - ... it hsould nto run as root
 
+- StackExchange - Information Security Post - If a container is compromised does that mean host also compromised?
+  - https://security.stackexchange.com/questions/199905/if-a-container-is-compromised-does-that-mean-host-also-compromised
+    - The premise from the top & accepted answer is that containers are often less secure than full virtual machines.
+      > Ostensibly, a compromised container should not be able to harm the host. However, container security is not great, and there are usually many vulnerabilities that allow a privileged container user to compromise the host. In this way, containers are often less secure than full virtual machines. That does not mean that virtual machines can't be hacked. They are just not quite as bad.
+
+
 ## Podcasts ##
 
 ## 2019-003-Liz Rice, creating processes to shift security farther left in DevOps ##
