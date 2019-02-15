@@ -1,0 +1,2 @@
+- "Burp Suite master and king of making HTTP requests tremble." - @LaNMaSteR53
+- "Cancer is an aging problem. Evolution doesn’t like people staying around injecting too much error into their own cells, so cancer evolved to ensure that after a certain point you’ll simply die of it." - Daniel Miessler

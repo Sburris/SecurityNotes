@@ -1,0 +1,25 @@
+- History of LanMan
+- [How to Build a Successful Career in Information Security / Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/)
+- "From my experience all software developers are now security engineers wether they know it, admit to it or do it.  Your code is now the security of the org you work for." - @manicode
+- [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+- [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/podcast/)
+- [LFI To 10 Servers Pwn](https://nirmaldahal.com.np/lfi-to-10-servers-pwn/)
+- [Chain Fulnerability: S-XSS To Defacement & Acc. Takeover [Q2A Themes]](https://nirmaldahal.com.np/sxss-to-defacement-and-account-takeover/)
+- [R-XSS -> CSRF Bypass to account takeover](https://nirmaldahal.com.np/r-xss-csrf-bypass-to-account-takeover/)
+- [Markdown's XSS Vulnerability (and how to mitigate it)](https://github.com/showdownjs/showdown/wiki/Markdown's-XSS-Vulnerability-(and-how-to-mitigate-it))
+- [Joomla! 3.7.5 - Takeover in 20 Seconds with LDAP Injection](https://blog.ripstech.com/2017/joomla-takeover-in-20-seconds-with-ldap-injection-cve-2017-14596/?utm_medium=Tweet&utm_campaign=275772&utm_term=Security&utm_content=LDAPi&utm_source=Twitter)
+- [ClusterFuzz](https://google.github.io/clusterfuzz/)
+  - A scalable fuzzing infrastructure which finds security and stability issues in software.
+  - Services as the fuzzing backend for [OSS-Fuzz](https://github.com/google/oss-fuzz)
+- [Tweet: Exploit for the docker escape via 'runc' (CVE-2019-5736):](https://twitter.com/jschauma/status/1095694528089075712)
+- [RobotsDisallwed](https://github.com/danielmiessler/RobotsDisallowed)
+- [Seclists](https://github.com/danielmiessler/SecLists)
+  - Contains lists of things to use for fuzzing and other activities
+- [Helios: Know your attack surface](https://helios.exposed/)
+
+
+- [DO YOU KNOW HOW MUCH YOUR COMPUTER CAN DO IN A SECOND?](http://computers-are-fast.github.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [Why I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
+- [Ask HN: How do you make money from your side projects?](https://news.ycombinator.com/item?id=13980274)
+- [Ask HN: Has attracting a blog audience become harder?](https://news.ycombinator.com/item?id=13966190)
+- [Graphs Interview Questions and Practice Problems](https://www.techiedelight.com/graphs-interview-questions/)
