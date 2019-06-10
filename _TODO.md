@@ -20,6 +20,15 @@
 
 - [DO YOU KNOW HOW MUCH YOUR COMPUTER CAN DO IN A SECOND?](http://computers-are-fast.github.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [Why I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
-- [Ask HN: How do you make money from your side projects?](https://news.ycombinator.com/item?id=13980274)
 - [Ask HN: Has attracting a blog audience become harder?](https://news.ycombinator.com/item?id=13966190)
 - [Graphs Interview Questions and Practice Problems](https://www.techiedelight.com/graphs-interview-questions/)
+- [USA Facts](https://usafacts.org)
+- [Maze Generator](https://github.com/razimantv/mazegenerator)
+- [Data Structures and Algorithms Q&A](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [90% of Python in 90 Minutes](https://www.slideshare.net/MattHarrison4/learn-90)
+- [Competitive programming books](https://cses.fi/book/index.html)
+- [Chess Tactics explained](https://www.chesstactics.org)
+- [No bullshit linear algebra](https://minireference.com/blog/no-bullshit-linear-algebra-v2-release)
+- [Climbing the wrong hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill/)
+
+
