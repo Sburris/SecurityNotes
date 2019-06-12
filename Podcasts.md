@@ -5,8 +5,7 @@
 Order of Priority if there is not time for all of them (I listen to these during my commute)
 1. Absolute Security
 2. Risky Business
-3. The Secure Developer  
-*(if it ends up being worth while, hope so, plus gets another AppSec podcast in the mix)*
+3. The Secure Developer 
 4. Breaking Down Security
 5. Defense In Depth
 
@@ -19,8 +18,7 @@ Two friends interview other AppSec individuals.  I find this very valuable.
 ### The Secure Developer
 
 https://www.heavybit.com/library/podcasts/the-secure-developer/  
-*I have not listen to this one yet, but it is on my list to evaluate*  
-I have high hopes for this podcast, they have some great topics and guests.
+Has good converstations around adding security practices to development.
 
 ## General Computer Security Podcasts
 
