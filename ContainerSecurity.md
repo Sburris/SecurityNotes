@@ -59,6 +59,11 @@ There was a lot of discussion about moving left.  One of the earliest things was
 - Tool: https://github.com/nicholasjackson/cnitch
 
 
+- https://www.owasp.org/index.php/OWASP_Docker_Top_10
+- https://www.owasp.org/index.php/OWASP_Container_Security_Verification_Standard_(CSVS)
+- CIS Docker Benachmark (https://www.cisecurity.org/benchmark/docker/)
+- NIST Application Container Security Guide (https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf)
+
 
 ### Questions / Unknowns ###
 

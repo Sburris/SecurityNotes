@@ -16,6 +16,7 @@
 - [Seclists](https://github.com/danielmiessler/SecLists)
   - Contains lists of things to use for fuzzing and other activities
 - [Helios: Know your attack surface](https://helios.exposed/)
+- [XXE: How to become a Jedi [SLIDES]](https://www.slideshare.net/ssuserf09cba/xxe-how-to-become-a-jedi)
 
 
 - [DO YOU KNOW HOW MUCH YOUR COMPUTER CAN DO IN A SECOND?](http://computers-are-fast.github.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
@@ -32,3 +33,6 @@
 - [Climbing the wrong hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill/)
 
 
+
+Research
+- [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
