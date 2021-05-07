@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SCA #
 
 - [OWASP defines Component Analysis](https://owasp.org/www-community/Component_Analysis)
@@ -151,3 +152,4 @@ Looking at the first one, it looks like it is scanning everything (this includes
     - Reporting and administration
   - Concerns
     - Most SCA tools focus exclusively on OSS, but some buyers express concerns reguarding commericial off-the-shelf (COTS) packages.
+    

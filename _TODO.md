@@ -1,3 +1,4 @@
+- [Review of different target sites to try testing against](http://cybersecology.com/hackazon-review/)
 - History of LanMan
 - [How to Build a Successful Career in Information Security / Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/)
 - "From my experience all software developers are now security engineers wether they know it, admit to it or do it.  Your code is now the security of the org you work for." - @manicode
