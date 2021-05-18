@@ -46,7 +46,7 @@
 
 ## Evaluation Criteria ##
 
-- Technology COverage - the languages, frameworks, and open-source ecosystems to be evaluted.
+- Technology Coverage - the languages, frameworks, and open-source ecosystems to be evaluted.
 - The depth and breadth of data provided by the tools
   - Vulnerabilities
   - Number and quanlity of sources for the data
@@ -63,6 +63,10 @@ Some SBOM standards include:
 - [CycloneDX](https://cyclonedx.org/)
 - [SPDX](https://spdx.org/)
 - [SWID](https://www.iso.org/standard/65666.html)
+
+### News ###
+
+- [Biden may have put in an Executive Order to mandate this for the US Government](https://abcnews.go.com/Politics/biden-sign-executive-order-aimed-securing-critical-us/story?id=76077342)
 
 ### Tools ###
 
@@ -103,19 +107,28 @@ The OWASP Component Analysis lists many tools that can help out with SBOM, Freem
 
 #### Command ####
 
-dependency-check.bat --project AFBulletSafe --log log.txt -out F:\Temp\dependencycheck --scan F:\Projects\AFBulletSafe
+dependency-check.bat --project AFBulletSafe --log log.txt --scan F:\Projects\AFBulletSafe --format ALL
+dependency-check.bat --project AFBulletSafe --log log.txt --scan .\AFBulletSafe --format ALL
 
 #### Notes ####
 
-I am not sure if it is running, Task Manager has Antimalware Service Executable with high CPU load, not sure if that has anything to do with this.
-
 Log file is relative to location command is called from, it is not automatically placed in the output directory.
 
-Dependency-Check Version: 6.1.6
-Identified 5380 (844 unique) dependencies
-Vulnerable Dependencies: 77
-Vulnerabilities Found: 174
-Vulnerabiltites Suppressed: 0
+From my direct dev directory:
+
+- Dependency-Check Version: 6.1.6
+- Identified 5380 (844 unique) dependencies
+- Vulnerable Dependencies: 77
+- Vulnerabilities Found: 174
+- Vulnerabiltites Suppressed: 0
+
+When scanning just a pure git clone of master:
+
+- Dependency-Check Version: 6.1.6
+- Identified 317 (248 unique) dependencies
+- Vulnerable Dependencies: 19
+- Vulnerabilities Found: 45
+- Vulnerabiltites Suppressed: 0
 
 Looking at the first one, it looks like it is scanning everything (this includes a JetBrains Resharper dependence which is not deployed).  Need to see if this is expected only to run on the production output and not the source code directly.  Not sure what would happen if there was a bundling/minification as part of the pipeline.
 
@@ -152,4 +165,3 @@ Looking at the first one, it looks like it is scanning everything (this includes
     - Reporting and administration
   - Concerns
     - Most SCA tools focus exclusively on OSS, but some buyers express concerns reguarding commericial off-the-shelf (COTS) packages.
-    
