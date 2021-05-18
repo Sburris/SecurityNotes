@@ -51,10 +51,18 @@
   - Vulnerabilities
   - Number and quanlity of sources for the data
   - Identification of license types and relative risks
+  - Where does vulnerability information come from?
+    - NVD/CVE
+    - Internal Company Research (I think BlackDuck)
+  - Health of Open Source Project
+    - Number of maintainers
+    - How often are commits done
+    - Are there any CVEs (no CVEs is really a good sign, is anyone even looking?)
 - Increasingly, information about the status and provenance of individual packages, along with the ability to prioritize that data
-- The operational "fit" for the primary aend users of the product - for example, developers will prefer vastly different 
-- Can it create a Bill of Materials (BOM), is it customizable
+- The operational "fit" for the primary end users of the product - for example, developers will prefer vastly different
+- Can it create a Bill of Materials (BOM), is it customizable?
 - IDE Integration?
+- How easy is it to get data out programmatically (API / pull data into an aggregate system/dashboard)
 
 ## Software Bill-of-Materials (SBOM) ##
 
