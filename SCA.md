@@ -108,6 +108,13 @@ The OWASP Component Analysis lists many tools that can help out with SBOM, Freem
 - Can Dependabot be used outside of Github?
 - Does Veracode use another vendor under the hood (WhiteSource)?
 - Does Checkmarx use another vendor under the hood?
+- Additional tools to look at:
+  - SCR:CLR
+  - Defensics
+- On slack, someone talked about not trusting vendors if they are not in programs like:
+  - OneTrust
+  - Security ScoreCard
+  - Whistic
 
 ## Testing ##
 
