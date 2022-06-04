@@ -1,5 +1,4 @@
-- [Review of different target sites to try testing against](http://cybersecology.com/hackazon-review/)
-- History of LanMan
+
 - [How to Build a Successful Career in Information Security / Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/)
 - "From my experience all software developers are now security engineers wether they know it, admit to it or do it.  Your code is now the security of the org you work for." - @manicode
 - [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
@@ -32,4 +31,49 @@
 - [No bullshit linear algebra](https://minireference.com/blog/no-bullshit-linear-algebra-v2-release)
 - [Climbing the wrong hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill/)
 
+- [AppSecPhoenix](https://appsecphoenix.cloud/auth/login) - Mission Control Dashboard for your software
+- [Rob Bos - Protect Yourself Against Supply Chain Attacks - NDC Security 2022](https://www.youtube.com/watch?v=00R1JGBQEJg)
+- Veronica Schmitt  5:55 PM
+When I have worked with developers on reviewing their logs regularly to deal with logging debt this is why. I have found this in so many application logs. https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/?fbclid=IwAR0ePmCWukgELS5_UfoSwv4xo1swiffYK4JjMc-VgdRuq392oXwsO7GQLOE
+  - Take a look at this and see if a good any good practices/tips can come from this
+  - Search for videos from her
+- [Owasp Worcester Cyber Security For Beginners](https://www.eventbrite.co.uk/e/owasp-worcester-cyber-security-for-beginners-tickets-352955247647)
+- Training Resources: Builder, breaker, or defender
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - An open source multi-cloud security-auditing tool
+- [OWASP Ottawa April: Redefining Threat Modeling: Security team goes on Vacation](https://www.youtube.com/watch?v=92UMbtGhXLk)
+- [Offensive security source code review tips](https://twitter.com/infosec_au/status/1512604377001127941)
+- [Application Security How-To: Ken's Source-Code Review of an application codebase.](https://youtu.be/f6UOBCJ9pjw)
+- [The Absolute AppSec Secure-Code Review Methodology](https://absoluteappsec.com/blog/Secure-Code-Review/)
+- News? [RED-LILI Tracker](https://red-lili.info/)
+- [Utah Consumer Privacy Act: New legislation adds another wrinkle to the US legal landscape](https://portswigger.net/daily-swig/utah-consumer-privacy-act-new-legislation-adds-another-wrinkle-to-the-us-legal-landscape)
+- [OffensiveCon22 - Mark Dowd - Keynote - How Do You Actually Find Bugs?](https://youtu.be/7Ysy6iA2sqA)
+- [Threagile - Agile Threat Modeling Toolkit](https://threagile.io/?)
+- [The Original APT: Advanced Persistent Teenagers](https://krebsonsecurity.com/2022/04/the-original-apt-advanced-persistent-teenagers/)
+- [Web3 Is Going Just Great](https://web3isgoinggreat.com/)
+- [YouTube: Scaling Security - AppSec](https://youtu.be/ALPQxRmTqiI)
+- [NIST SP 800-218 - Secure Software Development Framework](https://csrc.nist.gov/publications/detail/sp/800-218/final)
+- [NIST SSDF Position Papers](https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/enhancing-software-supply-chain-security)
+  - It would be curious to see what positions the companies have submitted.  Curious to see how this bumps up against BSIMM and SAMM
+- [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/)
+- [Learning from 5 years of tech startup code audits](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
+- [OWASP SecurityRAT](https://owasp.org/www-project-securityrat/)
+  - Simplify security requirement management during development using automation approaches
+- regarding sammwise, how do you feel about having it being scanned by snyk for software composition analysis (SCA), coverity for SAST, and stackhawk for DAST? I think they scan for free for open source projects
+- Threat Modeling Starting Resources
+  - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
+  - [OWASP Threat Modeling](https://owasp.org/www-community/Threat_Modeling)
+  - [GitHub: awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling)
+- [Note Taking - CherryTree](https://cherrytree.en.softonic.com/)
+- [Living on 24 Hours a Day](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+  - [HOw to Live on 24 Hours a Day](https://amzn.to/3pPorTY)
+  - [Free](https://www.gutenberg.org/files/2274/2274-h/2274-h.htm)
+  - Perhaps you don’t have hobbies, or you’re looking for something a little deeper. Here, he suggests learning about science, history, or philosophy. Spending a few hours each night reading Epictetus, Epicurus, and others can help you develop a framework for thinking about life in a deeper and more meaningful way.
+- You need to pay VAT in European countries no matter where you're selling from (I use vatlayer.com for getting all the different VAT rates). You generally don't need to pay taxes in other countries until you reach a threshold of earnings / number of sales.
 
+Quaderno.io is another service which track all these different factors for you.
+
+Sales tax / VAT is displayed and charged to customers and you need to pay it to the relevant authorities every quarter.
+
+Then you can pay yourself a salary (which is a cost) from the money you received in the company, based on your country's personal income rates. On what's left, on your company's profit you need to pay corporate tax rate, based on your country's corporate tax rates. On the remaining profits in the company you can generally chose to pay yourself dividends (on which you pay other taxes, based on your country's tax rates on dividends). If you sell your company, you'll have to pay capital tax gain taxes on the profit you made with the company (the delta between the company's capital and how much you sold it for).
+
+- [OWASP Cheat Sheet Series - Infrastructure as Code Security Checklist](https://cheatsheetseries.owasp.org/cheatsheets/Infrastructure_as_Code_Security_Cheat_Sheet.html)
