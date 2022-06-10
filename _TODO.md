@@ -1,10 +1,6 @@
 - [How to Build a Successful Career in Information Security / Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/)
 - "From my experience all software developers are now security engineers wether they know it, admit to it or do it.  Your code is now the security of the org you work for." - @manicode
-- [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
-- [Unsupervised Learning by Daniel Miessler](https://danielmiessler.com/podcast/)
-- [LFI To 10 Servers Pwn](https://nirmaldahal.com.np/lfi-to-10-servers-pwn/)
-- [Chain Fulnerability: S-XSS To Defacement & Acc. Takeover [Q2A Themes]](https://nirmaldahal.com.np/sxss-to-defacement-and-account-takeover/)
-- [R-XSS -> CSRF Bypass to account takeover](https://nirmaldahal.com.np/r-xss-csrf-bypass-to-account-takeover/)
+
 - [Markdown's XSS Vulnerability (and how to mitigate it)](https://github.com/showdownjs/showdown/wiki/Markdown's-XSS-Vulnerability-(and-how-to-mitigate-it))
 - [Joomla! 3.7.5 - Takeover in 20 Seconds with LDAP Injection](https://blog.ripstech.com/2017/joomla-takeover-in-20-seconds-with-ldap-injection-cve-2017-14596/?utm_medium=Tweet&utm_campaign=275772&utm_term=Security&utm_content=LDAPi&utm_source=Twitter)
 - [ClusterFuzz](https://google.github.io/clusterfuzz/)
@@ -14,8 +10,6 @@
 - [RobotsDisallwed](https://github.com/danielmiessler/RobotsDisallowed)
 - [Seclists](https://github.com/danielmiessler/SecLists)
   - Contains lists of things to use for fuzzing and other activities
-- [Helios: Know your attack surface](https://helios.exposed/)
-
 
 - [DO YOU KNOW HOW MUCH YOUR COMPUTER CAN DO IN A SECOND?](http://computers-are-fast.github.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [Why I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
@@ -39,7 +33,6 @@ When I have worked with developers on reviewing their logs regularly to deal wit
 - [Owasp Worcester Cyber Security For Beginners](https://www.eventbrite.co.uk/e/owasp-worcester-cyber-security-for-beginners-tickets-352955247647)
 - Training Resources: Builder, breaker, or defender
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - An open source multi-cloud security-auditing tool
-- [OWASP Ottawa April: Redefining Threat Modeling: Security team goes on Vacation](https://www.youtube.com/watch?v=92UMbtGhXLk)
 - [Offensive security source code review tips](https://twitter.com/infosec_au/status/1512604377001127941)
 - [Application Security How-To: Ken's Source-Code Review of an application codebase.](https://youtu.be/f6UOBCJ9pjw)
 - [The Absolute AppSec Secure-Code Review Methodology](https://absoluteappsec.com/blog/Secure-Code-Review/)
@@ -62,6 +55,7 @@ When I have worked with developers on reviewing their logs regularly to deal wit
   - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
   - [OWASP Threat Modeling](https://owasp.org/www-community/Threat_Modeling)
   - [GitHub: awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling)
+  - [OWASP Ottawa April: Redefining Threat Modeling: Security team goes on Vacation](https://www.youtube.com/watch?v=92UMbtGhXLk)
 - [Note Taking - CherryTree](https://cherrytree.en.softonic.com/)
 - [Living on 24 Hours a Day](https://www.justindfuller.com/2022/01/living-on-24-hours-a-day/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
   - [HOw to Live on 24 Hours a Day](https://amzn.to/3pPorTY)
