@@ -9,6 +9,8 @@
 - Github Dependabot
 - Synk
 - WhiteSource
+- [checkov](https://github.com/bridgecrewio/checkov/)
+  - A static code analysis tool for insrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages.
 
 ## Vendors/Products ##
 
