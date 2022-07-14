@@ -1,7 +1,10 @@
-<<<<<<< HEAD
 # SCA #
 
 - [OWASP defines Component Analysis](https://owasp.org/www-community/Component_Analysis)
+
+## TODO ##
+
+- [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
 
 ## Products to Try ##
 

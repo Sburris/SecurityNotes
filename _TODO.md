@@ -105,8 +105,26 @@ Then you can pay yourself a salary (which is a cost) from the money you received
 - [Chess Tactics explained](https://www.chesstactics.org)
 - [No bullshit linear algebra](https://minireference.com/blog/no-bullshit-linear-algebra-v2-release)
 - [Climbing the wrong hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill/)
-
-
+- [Flood.io](https://www.flood.io/)
+  - Performance testing, has a free tier
+  - Mentions supporting tools:
+    - Protocol level
+      - [JMeter](https://www.flood.io/tools/jmeter)
+      - [Gatling](https://www.flood.io/tools/gatling)
+    - Browser level
+      - [Flood Element](https://www.flood.io/products/element)
+      - [Selenium](https://www.flood.io/tools/selenium)
+- [NotSoCerial-Lab](https://github.com/NotSoSecure/NotSoCereal-Lab)
+  - An exploitation playground for Deserialization issues and at this point it contains issues in Java, PHP, Python, and Node.
+- [Rego Style Guide](https://github.com/StyraInc/rego-style-guide)
+- [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
+- [How to Think about Threat Detection in the Cloud](https://medium.com/anton-on-security/how-to-think-about-threat-detection-in-the-cloud-1baff902afe5)
+- [AWS Startup Security Baseline (AWS SSB)](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
+- [CLoud Forensics Utils](https://github.com/google/cloud-forensics-utils)
+- [Azure Terrafy](https://github.com/Azure/aztfy)
+- [Damn Vulnerable Web Sockets Walkthrough](https://mmmds.pl/Damn-Vulnerable-Web-Sockets-walkthrough/)
+- [Security Study Plan](https://github.com/jassics/security-study-plan)
 
 Research
 - [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
+

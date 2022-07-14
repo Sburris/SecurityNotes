@@ -8,6 +8,8 @@ Best Practices
 
 ## References ##
 
+- [Dockerfile best practices](https://github.com/hexops/dockerfile)
+
 - Can I Haz non-privileged containers? (http://canihaznonprivilegedcontainers.info/)
   - Advocacy site for the uptake of using non-privileged containers
   - Looks into the reasons why containers think they need to run as root (atleast for a little bit)

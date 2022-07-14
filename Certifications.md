@@ -1,0 +1,13 @@
+
+- AWS Solutions Architect
+- Azure Solution Architect
+- [The Open Group Architecture Framework (TOGAF)](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework)
+  - The most used framework for enterpise architecture as of 2020 that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture.  TOGAF is a high-level approach to design
+- [Treasury Enterprise Architecture Framework (TEAF)](https://cio-wiki.org/wiki/Treasury_Enterprise_Architecture_Framework_(TEAF))
+  - From Department of the Treasury in July 2000
+  - Aims at facilitating "integration, information sharing, and exploitation of common requirements across the department"
+- 0FEAF
+- [Zachman Framework](https://cio-wiki.org/wiki/Zachman_Framework)
+  - an enterprise ontology and is a fundamental structure for Enterprise Architecture which provides a formal and structured way of viewing and defining an enterprise.
+- [Blocklists](https://github.com/jmdugan/blocklists/tree/master/corporations)
+  - blocking corporate domains through the host file
