@@ -51,3 +51,13 @@ Somethings that can be interesting is there needs to be customization done betwe
 ### possibly filter for auto-reporting, false positives, manual review
 ## centralized logging/metrics per tool
 ## feed into a centralized issue tracker that supports multiple tool input
+
+- decouple scan, from aggregating results, reporting, and ticketing system
+
+## Problems
+
+- Inconsistent results depending on how it was scanned
+- new rules can produce new results in untouched code, this could be an issue if it breaks the build
+- problem when aggregating from multiple different scan locations, inconsistent coverage would lead to a lot of thrashing in the reporting tool
+- How does this methodology work with SaaS offerings?
+- How to manage triage new rules
