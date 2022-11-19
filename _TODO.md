@@ -37,3 +37,22 @@
 
 Research
 - [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
+
+## ThinkstScapes
+
+- [HTTP/2: The Sequel is Always Worse (Paper)](https://portswigger.net/kb/papers/rfekn2Uv/HTTP2whitepaper.pdf)
+- Interpretable Deep Learning Under Fire
+- Do You Speak My Language? Making Static Analysis Engines Understand Each Other
+- Practical Defences Against Adversarial Machine Learning
+- An Observational Investigation of Reverse Engineers' Processes
+- On the Feasibility of Automating Stock Market Manipulation
+- Everything Old is New Again: Binary Security of WebAssembly
+
+
+## Slack
+
+- [Mindmaps](https://www.xmind.net)
+- [KitPloit](https://www.kitploit.com/2021/09/autoharness-tool-that-automatically.html)
+  - A tool that Automatically Creates Fuzzing Harnesses Based On A Library
+- [rofl-fuzzer](https://github.com/GawdOfROFL/rofl-fuzzer)
+

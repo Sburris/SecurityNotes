@@ -63,6 +63,9 @@
 - Can it create a Bill of Materials (BOM), is it customizable?
 - IDE Integration?
 - How easy is it to get data out programmatically (API / pull data into an aggregate system/dashboard)
+- How are the contributers managed?
+- How do they manager their dependencies?
+- How are they at managing technical debt?
 
 ## Software Bill-of-Materials (SBOM) ##
 

@@ -1,0 +1,46 @@
+# Overview
+
+Command: grep '- path: ".*"' main.js | sort
+
+- *Note: needed to move the sub things for privacy-security back under itself*
+
+## Paths
+
+- path: "**"
+- path: "2fa/enter"
+- path: "403"
+- path: "about"
+- path: "accounting"
+- path: "address/create"
+- path: "address/edit/:addressId"
+- path: "address/saved"
+- path: "address/select"
+- path: "administration"
+- path: "basket"
+- path: "chatbot"
+- path: "complain"
+- path: "contact"
+- path: "delivery-method"
+- path: "deluxe-membership"
+- path: "forgot-password"
+- path: "hacking-instructor"
+- path: "login"
+- path: "order-completion/:id"
+- path: "order-history"
+- path: "order-summary"
+- path: "payment/:entity"
+- path: "photo-wall"
+- path: "privacy-security"
+  - path: "change-password"
+  - path: "data-export"
+  - path: "last-login-ip"
+  - path: "privacy-policy"
+  - path: "two-factor-authentication"
+- path: "recycle"
+- path: "register"
+- path: "saved-payment-methods"
+- path: "score-board"
+- path: "search"
+- path: "track-result"
+- path: "track-result/new"
+- path: "wallet"

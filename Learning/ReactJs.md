@@ -15,7 +15,7 @@ React Native is cross platform
 Built by Facebook
 Declarative language (model UI and state)
 
-## Concepts ##
+## Basic Concepts ##
 
 - Components
   - like functions
@@ -31,7 +31,7 @@ Declarative language (model UI and state)
   - No HTML template language
   - Tree reconciliation
 
-- Reactt Component Types
+- React Component Types
   - Function Component
     - Simpliar
   - Class Component
