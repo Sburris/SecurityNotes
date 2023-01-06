@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+- <https://adr.github.io/madr/>
 - [Review of different target sites to try testing against](http://cybersecology.com/hackazon-review/)
 - History of LanMan
 - [How to Build a Successful Career in Information Security / Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/)
@@ -20,7 +20,6 @@
 - [Helios: Know your attack surface](https://helios.exposed/)
 - [XXE: How to become a Jedi [SLIDES]](https://www.slideshare.net/ssuserf09cba/xxe-how-to-become-a-jedi)
 
-
 - [DO YOU KNOW HOW MUCH YOUR COMPUTER CAN DO IN A SECOND?](http://computers-are-fast.github.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [Why I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
 - [Ask HN: Has attracting a blog audience become harder?](https://news.ycombinator.com/item?id=13966190)
@@ -34,9 +33,8 @@
 - [No bullshit linear algebra](https://minireference.com/blog/no-bullshit-linear-algebra-v2-release)
 - [Climbing the wrong hill](http://cdixon.org/2009/09/19/climbing-the-wrong-hill/)
 
-
-
 Research
+
 - [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
 
 ## ThinkstScapes
@@ -49,7 +47,6 @@ Research
 - On the Feasibility of Automating Stock Market Manipulation
 - Everything Old is New Again: Binary Security of WebAssembly
 
-
 ## Slack
 
 - [Mindmaps](https://www.xmind.net)
@@ -58,6 +55,7 @@ Research
 - [rofl-fuzzer](https://github.com/GawdOfROFL/rofl-fuzzer)
 
 =======
+
 - [How to Build a Successful Career in Information Security / Cybersecurity](https://danielmiessler.com/blog/build-successful-infosec-career/)
 - "From my experience all software developers are now security engineers wether they know it, admit to it or do it.  Your code is now the security of the org you work for." - @manicode
 
@@ -87,7 +85,7 @@ Research
 - [AppSecPhoenix](https://appsecphoenix.cloud/auth/login) - Mission Control Dashboard for your software
 - [Rob Bos - Protect Yourself Against Supply Chain Attacks - NDC Security 2022](https://www.youtube.com/watch?v=00R1JGBQEJg)
 - Veronica Schmitt  5:55 PM
-When I have worked with developers on reviewing their logs regularly to deal with logging debt this is why. I have found this in so many application logs. https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/?fbclid=IwAR0ePmCWukgELS5_UfoSwv4xo1swiffYK4JjMc-VgdRuq392oXwsO7GQLOE
+When I have worked with developers on reviewing their logs regularly to deal with logging debt this is why. I have found this in so many application logs. <https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/?fbclid=IwAR0ePmCWukgELS5_UfoSwv4xo1swiffYK4JjMc-VgdRuq392oXwsO7GQLOE>
   - Take a look at this and see if a good any good practices/tips can come from this
   - Search for videos from her
 - [Owasp Worcester Cyber Security For Beginners](https://www.eventbrite.co.uk/e/owasp-worcester-cyber-security-for-beginners-tickets-352955247647)
@@ -152,7 +150,6 @@ Then you can pay yourself a salary (which is a cost) from the money you received
 - [Helios: Know your attack surface](https://helios.exposed/)
 - [XXE: How to become a Jedi [SLIDES]](https://www.slideshare.net/ssuserf09cba/xxe-how-to-become-a-jedi)
 
-
 - [DO YOU KNOW HOW MUCH YOUR COMPUTER CAN DO IN A SECOND?](http://computers-are-fast.github.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 - [Why I Stopped Using Multiple Monitors](https://hackernoon.com/why-i-stopped-using-multiple-monitors-bfd87efa2e5b)
 - [Ask HN: Has attracting a blog audience become harder?](https://news.ycombinator.com/item?id=13966190)
@@ -186,6 +183,5 @@ Then you can pay yourself a salary (which is a cost) from the money you received
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
 
 Research
-- [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
 
->>>>>>> 64c0f55ffeeb183062036fc1f518cd07a1628a99
+- [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
