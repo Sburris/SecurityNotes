@@ -1,3 +1,7 @@
+- Go Tools: staticcheck, gosec, and govulncheck
+
+- [XML Security](https://semgrep.dev/blog/2022/xml-security-in-java/)
+
 - <https://adr.github.io/madr/>
 - [Review of different target sites to try testing against](http://cybersecology.com/hackazon-review/)
 - History of LanMan

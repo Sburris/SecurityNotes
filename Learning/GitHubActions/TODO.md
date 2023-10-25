@@ -1,0 +1,7 @@
+- [Leaking Secrets From GitHub Actions: Reading Files and Envronment Varibles, Intercepting Network/Process COmmunication, Dumping Memory](https://karimrahal.com/2023/01/05/github-actions-leaking-secrets/)
+  - If you have command injection in GitHub Action workflow, Karim Rahal walks through different ways to steal secrets.
+- [Improve GitHub Actions OIDC security posture with custom issuer](https://awsteele.com/blog/2023/01/11/improve-github-actions-oidc-security-posture-with-custom-issuer.html)
+  - If you use GitHub Enterprise Cloud, Aidan Steele describes how AWS org admins can lock down role creation to only your GitHub Enterprise, makigng use of GitHub Actions OIDC safer.
+- [GHAT](https://github.com/JamesWoolfenden/ghat)
+  - A tool for updating dependencies in your GitHub Actions to their latest versions, using immutable hashes instead of mutable tags.
+- [Novel Pipeline Vulnerability Discovered; Rust Found Vulnerabile](https://www.legitsecurity.com/blog/artifact-poisoning-vulnerability-discovered-in-rust)
