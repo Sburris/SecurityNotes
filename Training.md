@@ -13,6 +13,7 @@
 - https://learning.appsecengineer.com
 - Security Journey
 - [Cybrary](https://www.cybrary.it/)
+- [SecDim](https://secdim.com)
 
 
 ## Advice
