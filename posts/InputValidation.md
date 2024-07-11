@@ -75,19 +75,12 @@ The output context should not influence the input validation because it is possi
 ### Input Validation Model
 
 | Level | Description | Type |
-
 |---|---|---|
-
 |1|Null Check|Syntactic|
-
 |2|Character Set|Syntactic|
-
 |3|Min/Max/Length|Syntactic|
-
 |4|Format|Syntactic|
-
 |5|Domain Validation|Contextual|
-
 |6|Business Validation|Contextual|
 
 #### Level 1 - Null Check
