@@ -69,6 +69,7 @@ Another curated list of content.  I have found enough value to do the paid membe
   - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
   - [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)
   - OWASP Vulnerable Web Applications Directory (VWAD)
+  - Mozilla Docs | An Overview of Http
 
 ## Other
 
