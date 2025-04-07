@@ -189,3 +189,8 @@ Then you can pay yourself a salary (which is a cost) from the money you received
 Research
 
 - [Browser Local Storage and XSS](https://blog.acolyer.org/2019/04/10/dont-trust-the-locals:-investigating-the-prevalence-of-persistent-client-side-cross-site-scripting-in-the-wild/)
+
+## Tools
+
+- [Elixir Security: Real World Sobelow](https://paraxial.io/blog/real-sobelow)
+  - Sobelow, a static code analysis tool for Elixir and Phoenix: project planning, understanding your app's security model, triaging findings, etc.
