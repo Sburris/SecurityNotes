@@ -1,5 +1,7 @@
-- Go Tools: staticcheck, gosec, and govulncheck
 
+- [Building an AI AppSec Team](https://srajangupta.substack.com/p/building-an-ai-appsec-team)
+- [YouTube - Security Facts and Fallacies about Browser Storage by Eva Sarafianou](https://www.youtube.com/watch?v=roG99LkSkZA)
+- Go Tools: staticcheck, gosec, and govulncheck
 - [XML Security](https://semgrep.dev/blog/2022/xml-security-in-java/)
 
 - <https://adr.github.io/madr/>
